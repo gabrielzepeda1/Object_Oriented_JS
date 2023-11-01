@@ -1,0 +1,19 @@
+Object Oriented languages promote 
+-Modularity 
+-Code reusability 
+
+Describe reality using objects and their relationships 
+-Association 
+-Aggregation 
+-Composition 
+
+OOP Principles
+
+Encapsulation 
+-Concentrate into a single entity data and code that manipulates it. 
+
+Inheritance 
+-Mechanism by which an object acquires some or all features from one or more objects
+
+Polymorphism 
+-Capacity to process objects differently based on their data type or stucture 
